@@ -1,0 +1,3 @@
+﻿  PriorityQueue.cpp
+d:\workspace_visual\mst\mst\priorityqueue.cpp(106): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'void *'입니다.
+  MST.vcxproj -> D:\workspace_visual\MST\Debug\MST.exe

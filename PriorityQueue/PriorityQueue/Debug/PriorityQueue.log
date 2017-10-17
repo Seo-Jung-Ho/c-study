@@ -1,0 +1,3 @@
+﻿  PriorityQueue.cpp
+Test.obj : error LNK2005: _main
+D:\workspace_visual\PriorityQueue\Debug\PriorityQueue.exe : fatal error LNK1169: 
